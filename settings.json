@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Ivankelesha.aternos.me",
+    "ip": "pineconefish.aternos.host",
     "port": 11841,
     "version":  "1.21.11",
     "try-creative": false
